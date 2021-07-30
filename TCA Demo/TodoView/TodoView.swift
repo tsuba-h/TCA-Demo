@@ -11,5 +11,6 @@ struct SecondView: View {
     var body: some View {
         Text("Second View")
             .padding()
+        
     }
 }
